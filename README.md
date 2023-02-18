@@ -1,0 +1,2 @@
+# Pharmacy Website
+ Static Website
